@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lehrer>
+    <eintrag kuerzel="Müller">Herr Müller</eintrag>
+    <eintrag kuerzel="Schmidt">Herr Schmidt</eintrag>
+    <eintrag kuerzel="Braun">Frau Braun</eintrag>
+</lehrer>

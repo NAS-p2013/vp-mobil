@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vertretungsplan>
+    <tag datum="2025-05-28">
+        <vertretung klasse="10A" stunde="3" fach="BIO" lehrer="Müller" raum="201" info="Fällt aus"/>
+        <vertretung klasse="9B" stunde="5" fach="MAT" lehrer="Schmidt" raum="104" info="Vertretung durch Frau Braun"/>
+    </tag>
+</vertretungsplan>
